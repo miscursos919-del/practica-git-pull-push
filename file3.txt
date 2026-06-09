@@ -1,0 +1,1 @@
+se crea file3 desde VSC, para probar la sincronización
